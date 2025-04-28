@@ -26,7 +26,7 @@ Cada capa sólo puede comunicarse con las capas inferiores.
 
 ## 🚀 Ejecución
 
-php bin/console app:drawing-tool input.txt output.txt
+php bin/console app:draw input.txt output.txt
 
 ---
 
